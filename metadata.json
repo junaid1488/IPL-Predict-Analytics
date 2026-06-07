@@ -1,0 +1,8 @@
+{
+  "name": "IPL Predict and Analytics",
+  "description": "A premium SaaS platform for IPL analytics, player performance, venue stats, and ML match prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
