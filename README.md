@@ -3,7 +3,6 @@
 You can view website here --> https://ipl-predict-analytics-816882326799.us-west1.run.app/
 <img width="1905" height="917" alt="Screenshot 2026-07-06 132407" src="https://github.com/user-attachments/assets/158ef55c-6574-40ee-8d7c-37d726d06c5d" />
 <img width="1906" height="914" alt="Screenshot 2026-07-06 132433" src="https://github.com/user-attachments/assets/46c65d00-1528-4923-b170-31bdda9590be" />
-# 🏏 IPL Analytics SaaS Platform
 
 > **A modern AI-powered cricket analytics platform for the Indian Premier League.**
 
